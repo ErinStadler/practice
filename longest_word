@@ -1,0 +1,15 @@
+def find_longest_word(longest_word)
+
+#['boo', 'a', 'I','hi']
+#['one', 'two', 'superduper','dog']
+#['hello', 'world']
+
+longest_word = ''
+
+  for word in longest_word:
+    word >= longest_word
+  return word
+  
+  print(['boo', 'a', 'I','hi'])
+  print(['one', 'two', 'superduper','dog'])
+  print(['hello', 'world'])
